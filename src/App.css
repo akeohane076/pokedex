@@ -1,0 +1,12 @@
+.App{
+    max-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
+    padding-left: 10px
+}
+
+.header{
+    margin-bottom: 2px !important;
+    margin-left: 6px !important;
+    margin-top: 12px
+}

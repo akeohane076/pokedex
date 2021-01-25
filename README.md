@@ -1,2 +1,1 @@
-npm i
-yarn start
+app starts with npm i and yarn start

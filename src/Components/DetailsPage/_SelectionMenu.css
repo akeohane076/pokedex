@@ -1,0 +1,30 @@
+.subpageHeader{
+    display: inline;
+    margin-right: 24px
+}
+
+.subpageHeader:hover{
+    cursor: pointer;
+}
+.activeSubpage{
+    border-bottom: .5px solid red
+}
+
+.detailPageEvolution{
+    display: inline;
+    margin: 0px 24px 0px 12px;
+}
+
+.evolutionHeaders{
+    padding-top: 12px;
+    font-weight: bold;
+    display: inline;
+}
+
+.selectionMenuRoot{
+    padding: 12px
+}
+
+.evolutionParent{
+    padding-top: 12px;
+}

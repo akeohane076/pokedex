@@ -1,0 +1,139 @@
+.GrassLight{
+    background-color: #6feb82 !important;
+}
+
+.FireLight{
+    background-color: #f5ac78 !important
+}
+
+.PoisonLight{
+    background-color: #8f5c8f !important;
+    color: white !important
+}
+
+.FlyingLight{
+    background-color: #c4b6f0 !important
+}
+
+.WaterLight{
+    background-color: #149eff !important
+}
+
+.BugLight{
+    background-color: #ced682 !important;
+}
+
+.NormalLight{
+    background-color: #afafa9 !important;
+}
+
+.ElectricLight{
+    background-color: #f3dd84 !important;
+}
+
+.GroundLight{
+    background-color: #d6c597 !important;
+}
+
+.FairyLight{
+    background-color: #ebc8d0 !important;
+}
+
+.FightingLight{
+    background-color: #946561 !important;
+}
+
+.PsychicLight{
+    background-color: #f3b4c7 !important;
+}
+
+.RockLight{
+    background-color: #b9ab6d !important
+}
+
+.IceLight{
+    background-color: #b7d8d8 !important;
+}
+
+.GhostLight{
+    background-color: #6f6383 !important;
+    color: white !important
+}
+
+.DragonLight{
+    background-color: #9954ee !important;
+}
+
+.DragonLight{
+    color: white !important
+}
+
+.Grass{
+    background-color: #2dcd45 !important;
+}
+
+.Fire{
+    background-color: #f08030 !important
+}
+
+.Poison{
+    background-color: #883688 !important;
+    color: white !important
+}
+
+.Flying{
+    background-color: #a890f0 !important
+}
+
+.Water{
+    background-color: #149eff !important
+}
+
+.Bug{
+    background-color: #a8b820 !important;
+}
+
+.Normal{
+    background-color: #a8a878 !important;
+}
+
+.Electric{
+    background-color: #f8d030 !important;
+}
+
+.Ground{
+    background-color: #e0c068 !important;
+}
+
+.Fairy{
+    background-color: #ee99ac !important;
+}
+
+.Fighting{
+    background-color: #94352d !important;
+}
+
+.Psychic{
+    background-color: #ff6996 !important;
+}
+
+.Rock{
+    background-color: #b8a038 !important
+}
+
+.Ice{
+    background-color: #98d8d8 !important;
+}
+
+.Ghost{
+    background-color: #614c83 !important;
+    color: white !important
+}
+
+.Dragon{
+    background-color: #700aee !important;
+}
+
+.Dragon{
+    color: white !important
+}
